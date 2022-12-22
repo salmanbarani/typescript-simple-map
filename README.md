@@ -1,5 +1,5 @@
 # typescript-simple-map
-I created this repository to get familiar with Typescript.
+Simple repository to get familiar with Typescript.
 </br></br>
 ![alt text](https://res.cloudinary.com/dunooqow2/image/upload/v1667333255/Screenshot_from_2022-11-01_22-59-14.png)
 </br></br>
